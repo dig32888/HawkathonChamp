@@ -1,5 +1,5 @@
 # UniBalance
-#### Lehigh Valley Hackathon 25-26
+#### Lehigh Valley Hackathon 2025
 UniBalance is a comprehensive meal plan and budget management web application designed for college students to track dining dollars, meal swipes, meal exchanges, debit card balances, and personal finances throughout the semester.
 
 ## Overview
@@ -12,10 +12,13 @@ UniBalance helps students:
 
 ## Project Architecture:
 - **Frontend**: React, TypeScript
+- **AWS Tools**: Cloudscape
 
 ## Key Features Implemented:
-
-## How to use:
+-  Meal Planner: Generate a personalized meal schedule based on the student’s current meal plan, helping them ration meals effectively for the rest of the semester.
+- Budget Planner
+Analyze current spending habits to create an ideal semester budget and track whether the student is staying within their financial goals.
+- Summary Dashboard: Display an at-a-glance overview of the student’s meal and budget plans, with visual insights that show progress and how well they’re staying on track.
 
 
 
